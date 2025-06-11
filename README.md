@@ -1,3 +1,5 @@
+<div align= "center">
+
 # 💫 About Me:
 ## 👋 Hi there, I'm Selvaganapathy Sakthivel
 
@@ -10,6 +12,8 @@
 🚀 I enjoy solving real-world problems, building projects from scratch, and continuously improving my skills.
 
 📫 Let's connect: selvaganapathysakthivel@gmail.com
+  
+</div>
 <br>
 
 
