@@ -1,5 +1,16 @@
 # 💫 About Me:
-i am currently studying<br>
+## 👋 Hi there, I'm Selvaganapathy Sakthivel
+
+🎓 I'm a Computer Science graduate passionate about building web applications and learning new technologies.
+
+💻 I specialize in the **MERN stack** – MongoDB, Express.js, React.js, and Node.js – to create full-stack applications.
+
+🔍 Currently working on a **Phishing Website Detection System** using **Machine Learning**, focusing on web security and data analysis.
+
+🚀 I enjoy solving real-world problems, building projects from scratch, and continuously improving my skills.
+
+📫 Let's connect: selvaganapathysakthivel@gmail.com
+<br>
 
 
 ## 🌐 Socials:
