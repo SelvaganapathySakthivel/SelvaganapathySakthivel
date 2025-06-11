@@ -37,9 +37,11 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![snake gif](https://github.com/SelvaganapathySakthivel/SelvaganapathySakthivel/blob/output/github-snake-dark.svg)
 </div>
  
-![snake gif](https://github.com/SelvaganapathySakthivel/SelvaganapathySakthivel/blob/output/github-snake-dark.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SelvaganapathySakthivel&icon=0&color=0)](https://visitcount.itsvg.in)
